@@ -33,6 +33,7 @@
 ## 视频教程
 https://www.youtube.com/@qilaoxi/videos
 ## 广告
+<p>赚钱项目：<a href="https://sg1-1309278490.cos-website.ap-nanjing.myqcloud.com/?zid=742349">游鱼赚钱项目平台</a></p>
 <p>服务器购买①:<a href="https://url.cn/uBTxO4Gm">【腾讯云】云服务器等爆品抢先购，低至4.2元/月</a></p>
 <p>服务器购买②:<a href="https://url.cn/XD0oefym">【腾讯云】热卖云产品年终特惠，2核2G轻量应用服务器6.58元/月起</a></p>
 
