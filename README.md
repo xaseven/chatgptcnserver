@@ -4,7 +4,7 @@
 
 ## 部署方式
 
-1. 从本站下载好 [二进制](https://github.com/xaseven/chatgptcnserver/release)（或者自己编译）文件，附带config.yaml配置文件即可.
+1. 从本站下载好 [二进制](https://github.com/xaseven/chatgptcnserver/releases)（或者自己编译）文件，附带config.yaml配置文件即可.
 2. nginx配置：  
     location /api/ {  
        add_header Access-Control-Allow-Origin * always;  
