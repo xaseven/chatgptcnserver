@@ -1,0 +1,26 @@
+
+# zap logger configuration
+zap:
+  level: 'info'
+  format: 'console'
+  prefix: '[chatgptcn]'
+  director: 'log'
+  link-name: 'latest_log'
+  show-line: true
+  encode-level: 'LowercaseColorLevelEncoder'
+  stacktrace-key: 'stacktrace'
+  log-in-console: false
+
+# system configuration
+system:
+  env: prod  # Change to "develop" to skip authentication for development mode
+  addr: 8899
+  oss-type: local
+  use-multipoint: true
+
+# 开启proxy的enable(true)的情况下，才会去调用GPT-3的API接口，如果enable为false,则不会去调用GPT-3的接口，而是会给客户端输出 info 的配置信息
+proxy:
+  enable : false
+  info: '正在调试程序，请稍候……'
+  chatgptmodel: 'text-davinci-003' #默认是达芬奇模型，可以自己修改成想要的
+  chatgpttoken : '123456' #换成自己在OpenAI的API-Key
