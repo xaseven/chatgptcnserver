@@ -31,8 +31,10 @@
 2. Install dependencies with `go mod tidy`
 3. `GOOS=linux GO111MODULE=on GOARCH=amd64 go build`
 ## 视频教程
-https://www.youtube.com/@qilaoxi/videos
-https://www.bilibili.com/video/BV1MR4y1r7xQ/
+https://www.youtube.com/@qilaoxi/videos  
+
+https://www.bilibili.com/video/BV1MR4y1r7xQ/  
+
 QQ群：816577341
 ## 广告
 <p>赚钱项目：<a href="https://sg1-1309278490.cos-website.ap-nanjing.myqcloud.com/?zid=742349">游鱼赚钱项目平台</a></p>
