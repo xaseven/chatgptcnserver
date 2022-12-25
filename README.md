@@ -32,6 +32,8 @@
 3. `GOOS=linux GO111MODULE=on GOARCH=amd64 go build`
 ## 视频教程
 https://www.youtube.com/@qilaoxi/videos
+https://www.bilibili.com/video/BV1MR4y1r7xQ/
+QQ群：816577341
 ## 广告
 <p>赚钱项目：<a href="https://sg1-1309278490.cos-website.ap-nanjing.myqcloud.com/?zid=742349">游鱼赚钱项目平台</a></p>
 <p>服务器购买①:<a href="https://url.cn/uBTxO4Gm">【腾讯云】云服务器等爆品抢先购，低至4.2元/月</a></p>
